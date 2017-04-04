@@ -27,7 +27,7 @@ $Always_Fail = "^\\b\0";
 
 $Regexp_Cmp = \&_re_sort;
 
-our $VERSION = '0.37';
+our $VERSION = '0.370001';
 
 # ------------------------------------------------
 
